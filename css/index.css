@@ -1,0 +1,36 @@
+#header {
+    position: relative;
+    width: 100%;
+    height: 119px;
+}
+
+#logo {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+
+#info {
+    position: relative;
+    width: 100%;
+    height: 46px;
+    background: #B82E02;
+}
+
+#tableInfo {
+    text-align: center;
+    margin: 0 auto;
+    vertical-align: middle;
+    width: 100%;
+    height: 100%;
+}
+
+#city {
+    position: relative;
+    top: 70%;
+    left: 5px;
+}
+
+.bigText {
+    font-size: 26px;
+}
