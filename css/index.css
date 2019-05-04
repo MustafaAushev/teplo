@@ -1,23 +1,23 @@
-#header {
+.main__header {
     position: relative;
     width: 100%;
     height: 119px;
 }
 
-#logo {
+.logo__img {
     text-align: center;
     display: block;
     margin: 0 auto;
 }
 
-#info {
+.main__line {
     position: relative;
     width: 100%;
     height: 46px;
     background: #B82E02;
 }
 
-#tableInfo {
+.table-info {
     text-align: center;
     margin: 0 auto;
     vertical-align: middle;
@@ -25,22 +25,22 @@
     height: 100%;
 }
 
-#city {
+.city {
     position: relative;
     top: 70%;
     left: 5px;
 }
 
-.bigText {
+.text_big {
     font-size: 26px;
 }
 
-.body {
+.main__body {
     width: 100%;
     height: 250px;
 }
 
-#mainPhoto {
+.main-photo {
     height: 100%;
     width: 100%;
     background: url('../static/img/main.png');
